@@ -1,13 +1,12 @@
-package com.example.jpa_pratice;
+package com.example.jpa_practice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JpaPraticeApplication {
+public class JpaPracticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JpaPraticeApplication.class, args);
+		SpringApplication.run(JpaPracticeApplication.class, args);
 	}
-
 }
